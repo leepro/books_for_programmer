@@ -12,11 +12,6 @@
 
 * The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd) – Aug 2 1995 by Frederick P. Brooks Jr. 
 
-## Low Level Programming
-
-* Low-Level Programming: C, Assembly, and Program Execution on Intel® 64 Architecture Paperback – Jun 29 2017 by Igor Zhirkov
-* Modern X86 Assembly Language Programming: 32-bit, 64-bit, SSE, and AVX – Nov 25 2014 by Daniel Kusswurm
-
 ## Computer Architecture
 
 * Code by Charlez Petzold
@@ -32,6 +27,7 @@
 * The New Turing Omnibus: Sixty-Six Excursions in Computer Science – Jul 15 1993 by A. K. Dewdney
 * Distributed Algorithms, by Nancy A. Lynch
 * Introduction to Parallel Algorithms By Jaja, Joseph, 1992
+* Grokking Algorithms: An illustrated guide for programmers and other curious people – May 30 2016 by Aditya Bhargava (for beginner)
 
 ## Language and Compiler
 
@@ -48,6 +44,17 @@
 * Mining of Massive Datasets, Nov 11 2014, by Jure Leskovec and Anand Rajaraman
 * Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st, by Martin Kleppmann
 
-## Deep Learning, NN
+## Deep Learning, Arificial Neural Network
 
 * Deep Learning – Nov 18 2016, by Ian Goodfellow, Yoshua Bengio (Author), Aaron Courville
+
+## Language: Go
+
+* The Go Programming Language – Oct 26 2015 by Alan A. A. Donovan, Brian W. Kernighan
+* Concurrency in Go: Tools and Techniques for Developers – Aug 11 2017, by Katherine Cox-Buday
+
+## Low Level Programming
+
+* The Art of Assembly Language, 2nd – Mar 1 2010 by Randall Hyde 
+* Low-Level Programming: C, Assembly, and Program Execution on Intel® 64 Architecture Paperback – Jun 29 2017 by Igor Zhirkov
+* Modern X86 Assembly Language Programming: 32-bit, 64-bit, SSE, and AVX – Nov 25 2014 by Daniel Kusswurm
