@@ -17,7 +17,7 @@
 * Low-Level Programming: C, Assembly, and Program Execution on Intel® 64 Architecture Paperback – Jun 29 2017 by Igor Zhirkov
 * Modern X86 Assembly Language Programming: 32-bit, 64-bit, SSE, and AVX – Nov 25 2014 by Daniel Kusswurm
 
-## Basic on Computer
+## Computer Architecture
 
 * Code by Charlez Petzold
 * The Elements of Computing Systems: Building a Modern Computer from First Principles – Jan 25 2008 by Noam Nisan (Author), Shimon Schocken
@@ -38,6 +38,11 @@
 * Compilers: Principles, Techniques, and Tools (2nd) – Aug 31 2006, by Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman
 * Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers) 1st, by Terence Parr
 * Garbage Collection: Algorithms for Automatic Dynamnic Memory Management, by Richard Jones, Rafael Lins.
+
+## Large scale data processing
+
+* Mining of Massive Datasets, Nov 11 2014, by Jure Leskovec and Anand Rajaraman
+* Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st, by Martin Kleppmann
 
 ## Deep Learning, NN
 
