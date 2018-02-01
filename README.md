@@ -39,7 +39,7 @@
 
 * Hashing in Computer Science: Fifty Years of Slicing and Dicing Hardcover, Jul 6 2010, by Alan G. Konheim 
 
-## Large scale data processing
+## Data Mining, Large scale data processing
 
 * Mining of Massive Datasets, Nov 11 2014, by Jure Leskovec and Anand Rajaraman
 * Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st, by Martin Kleppmann
