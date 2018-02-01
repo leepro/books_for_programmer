@@ -32,6 +32,11 @@
 * Distributed Algorithms, by Nancy A. Lynch
 * Introduction to Parallel Algorithms By Jaja, Joseph, 1992
 
+## Language and Compiler
+
+* Compilers: Principles, Techniques, and Tools (2nd) – Aug 31 2006, by Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman
+* Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers) 1st, by Terence Parr
+
 ## Deep Learning, NN
 
 * Deep Learning – Nov 18 2016, by Ian Goodfellow, Yoshua Bengio (Author), Aaron Courville
