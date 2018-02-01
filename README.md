@@ -36,6 +36,7 @@
 
 * Compilers: Principles, Techniques, and Tools (2nd) – Aug 31 2006, by Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman
 * Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers) 1st, by Terence Parr
+* Garbage Collection: Algorithms for Automatic Dynamnic Memory Management, by Richard Jones, Rafael Lins.
 
 ## Deep Learning, NN
 
