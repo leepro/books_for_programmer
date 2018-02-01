@@ -1,16 +1,16 @@
 # Books
 
-## Coding and Problem Solving
+## Craftsmanship: Coding and Problem Solving
 
 * The Practice of Programming by Brian W. Kernighan, Rob Pike
 * Clean Code, Aug 1 2008, by Robert C. Martin
 * Programming Pearls (2nd Edition), Sep 27 1999, by Jon Bentley (Author)
 * More Programming Pearls: Confessions of a Coder, Jan 1 1988, by Jon Bentley
+* The Pragmatic Programmer: From Journeyman to Master – Oct 20 1999, by Andrew Hunt, David Thomas
 
-## Project Management
+## Project Management, Attitude
 
-* The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition) – Aug 2 1995 by Frederick P. Brooks Jr. 
-* The Pragmatic Programmer: From Journeyman to Master Paperback – Oct 20 1999, by Andrew Hunt (Author), David Thomas
+* The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd) – Aug 2 1995 by Frederick P. Brooks Jr. 
 
 ## Low Level Programming
 
