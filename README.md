@@ -39,6 +39,10 @@
 * Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages (Pragmatic Programmers) 1st, by Terence Parr
 * Garbage Collection: Algorithms for Automatic Dynamnic Memory Management, by Richard Jones, Rafael Lins.
 
+## Math, Theory
+
+* Hashing in Computer Science: Fifty Years of Slicing and Dicing Hardcover, Jul 6 2010, by Alan G. Konheim 
+
 ## Large scale data processing
 
 * Mining of Massive Datasets, Nov 11 2014, by Jure Leskovec and Anand Rajaraman
