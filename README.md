@@ -4,7 +4,7 @@ Based on my personal interests, I listed up the book titles.
 
 ## Craftsmanship: Coding and Problem Solving
 
-* Programming Pearls (2nd Edition), Sep 27 1999, by Jon Bentley (Author)
+* Programming Pearls (2nd Edition), Sep 27 1999, by Jon Bentley 
 * More Programming Pearls: Confessions of a Coder, Jan 1 1988, by Jon Bentley
 * The Practice of Programming by Brian W. Kernighan, Rob Pike
 * The Pragmatic Programmer: From Journeyman to Master – Oct 20 1999, by Andrew Hunt, David Thomas
