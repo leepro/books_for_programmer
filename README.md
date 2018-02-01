@@ -4,12 +4,12 @@ Based on my personal interests, I listed up the book titles.
 
 ## Craftsmanship: Coding and Problem Solving
 
-* The Practice of Programming by Brian W. Kernighan, Rob Pike
-* Clean Code, Aug 1 2008, by Robert C. Martin
 * Programming Pearls (2nd Edition), Sep 27 1999, by Jon Bentley (Author)
 * More Programming Pearls: Confessions of a Coder, Jan 1 1988, by Jon Bentley
+* The Practice of Programming by Brian W. Kernighan, Rob Pike
 * The Pragmatic Programmer: From Journeyman to Master – Oct 20 1999, by Andrew Hunt, David Thomas
 * How to Solve It: A New Aspect of Mathematical Method – Oct 27 2014, by G. Polya
+* Clean Code, Aug 1 2008, by Robert C. Martin
 
 ## Project Management, Attitude
 
