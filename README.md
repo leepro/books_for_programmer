@@ -1,5 +1,7 @@
 # Books
 
+Based on my personal interests, I listed up the book titles.
+
 ## Craftsmanship: Coding and Problem Solving
 
 * The Practice of Programming by Brian W. Kernighan, Rob Pike
