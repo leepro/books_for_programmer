@@ -26,6 +26,7 @@
 
 * Introduction to Algorithms by CLRS
 * The Algorithm Design Manual, Apr 27 2011 by Steven S Skiena
+* Introduction to Algorithms: A Creative Approach by Udi Manber
 * Once Upon an Algorithm, Martin Erwig
 * Hacker's Delight (2nd) – Sep 25 2012, by Henry S. Warren
 * The New Turing Omnibus: Sixty-Six Excursions in Computer Science – Jul 15 1993 by A. K. Dewdney
