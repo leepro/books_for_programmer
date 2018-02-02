@@ -49,6 +49,12 @@ Based on my personal interests, I listed up the book titles.
 
 * Mining of Massive Datasets, Nov 11 2014, by Jure Leskovec and Anand Rajaraman
 * Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st, by Martin Kleppmann
+* Top 10 Algorithms in Data Mining, http://www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf
+
+## Database
+
+* Reading in Database, https://github.com/rxin/db-readings
+* Readigs in Database Systems 5th, http://www.redbook.io/
 
 ## Deep Learning, Arificial Neural Network
 
