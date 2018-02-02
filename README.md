@@ -43,7 +43,7 @@ Based on my personal interests, I listed up the book titles.
 * Hashing in Computer Science: Fifty Years of Slicing and Dicing Hardcover, Jul 6 2010, by Alan G. Konheim 
 * Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation – Jul 28 2013, by Mark C. Chu-Carroll
 * Street-Fighting Mathematics: The Art of Educated Guessing and Opportunistic Problem Solving – Mar 5 2010, by Sanjoy Mahajan
-* [youtube] https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+* [Youtube] https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
 
 ## Data Mining, Large scale data processing
 
@@ -53,6 +53,7 @@ Based on my personal interests, I listed up the book titles.
 ## Deep Learning, Arificial Neural Network
 
 * Deep Learning – Nov 18 2016, by Ian Goodfellow, Yoshua Bengio (Author), Aaron Courville
+* [MOOC] https://www.coursera.org/learn/neural-networks
 
 ## Language: Go
 
