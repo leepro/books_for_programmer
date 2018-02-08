@@ -10,6 +10,8 @@ Based on my personal interests, I listed up the book titles.
 * The Pragmatic Programmer: From Journeyman to Master – Oct 20 1999, by Andrew Hunt, David Thomas
 * How to Solve It: A New Aspect of Mathematical Method – Oct 27 2014, by G. Polya
 * Clean Code, Aug 1 2008, by Robert C. Martin
+* Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation – Jul 27 2010
+by Jez Humble (Author), David Farley
 
 ## Project Management, Attitude
 
